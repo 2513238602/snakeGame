@@ -42,11 +42,7 @@
 
 ## 五、运行步骤
 
-### 1. 编译代码
+### 编译代码
 打开终端，切换到 `SnakeGame.java` 文件所在的目录，使用以下命令编译代码：
 ```bash
 javac SnakeGame.java
-### 2. 运行游戏
-编译成功后，使用以下命令运行游戏：
-```bash
-java SnakeGame
